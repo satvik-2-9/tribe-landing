@@ -420,7 +420,7 @@ img{
    }
    .rw2{
        width:100%;
-       padding-left:2%;
+       padding-left:20%;
        padding-right: 0;
    }
    .rr3{
@@ -460,17 +460,36 @@ img{
    .row{
        white-space: normal;
    }
-   .g2{
-       width:100%;
-   }
-   .bwa{
-       font-size: 0.8rem ;
-   }
+   
    .cb{
        padding-left:8%  ; 
    }
    .cc4{
        padding-left:6% ; 
+   }
+   .rw22{
+    padding-top: 5%;
+    text-align: center;
+    width:100%;
+    padding-right: 0;
+   }
+   .brk{
+       margin:0;
+   }
+   .sec img{
+       width:80%;
+       height:80%;
+   }
+   .fifth img{
+       height:80% !important;
+       width:80% !important;
+   }
+   .bb{
+       padding-top: 10%;
+       padding-right: 0;
+   }
+   .sixth{
+       margin:0;
    }
    
 }
