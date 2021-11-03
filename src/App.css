@@ -337,12 +337,27 @@ img{
     width:100%;
 }
 
+@media screen and (max-width:2000px) and (min-width:1601px) {
+    .bwa{
+        padding-left:13%;
+    }
+    .bwb{
+        padding-left:13%
+    }
+}
+
 @media screen and (max-width:1600px) and (min-width:1201px){
     .crd{
        padding-left:10%;
     }
     .s3{
         padding-left:19%;
+    }
+    .bwa{
+        padding-left:13%;
+    }
+    .bwb{
+        padding-left:13%
     }
 }
 
@@ -571,6 +586,12 @@ img{
   }
   .player{
       width:100% !important;
+  }
+  .bwa{
+      padding-left:13%;
+  }
+  .bwb{
+      padding-left:13%
   }
 
 }
