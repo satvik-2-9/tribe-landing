@@ -106,7 +106,7 @@ function App() {
         <div className="bwa">
           
          
-            {window.innerWidth >= 400 && window.innerWidth <= 600 &&
+            {window.innerWidth >= 300 && window.innerWidth <= 600 &&
               <>
               <Row className="rw22">
               <Col > <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1633592643441x699344130915025300%2Fpasra.jpg?w=64&h=64&auto=compress&dpr=1&mask=ellipse&q=75&fit=max" alt="ffimage"></img> </Col>
