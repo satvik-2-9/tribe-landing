@@ -359,6 +359,14 @@ img{
     .bwb{
         padding-left:13%
     }
+    .brk{
+        margin:0;
+        text-align: center;
+        margin-left:0 !important;
+        margin-right: 8%;
+        margin-top: 1px;
+        margin-bottom: 1%;
+    }
 }
 
 @media screen and (max-width:600px) and (min-width:300px){
@@ -554,6 +562,14 @@ img{
    .c4{
        padding-bottom:5%;
    }
+   .brk{
+    margin:0;
+    text-align: center;
+    margin-left:0 !important;
+    margin-right: 8%;
+    margin-top: 1px;
+    margin-bottom: 1%;
+}
   .rr{
       display: flex ;
       flex-direction: column;
