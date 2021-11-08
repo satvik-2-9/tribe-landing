@@ -362,7 +362,21 @@ img{
 }
 
 @media screen and (max-width:600px) and (min-width:300px){
-  
+    .btn-grp{
+        padding-left: 10% !important;
+    }
+    .cnt2{
+        padding-left:0;
+    }
+    .cnt3{
+        padding-left:0;
+    }
+    .img-1{
+        width: auto !important;
+    }
+    .img-2{
+        width: auto;
+    }
     .bt1{
         width:100%;
     }
